@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: DBS211NDD.02715.2244, Introduction to Database Systems
+Assessment: Lab 07 - ERD (Entity Relationship Diagram)
+
+Submission date: 7/12/24, 4:07 AM (Late)
+Submission size: 48.8 KB
+Submitter: Luca Novello
+Confirmation number: 8d987840b12444a6903d20360f0fa3f2
