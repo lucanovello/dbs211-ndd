@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: DBS211NDD.02715.2244, Introduction to Database Systems
+Assessment: Lab 08 Normalization UNF/1NF
+
+Submission date: 7/18/24, 10:08 PM
+Submission size: 28.4 KB
+Submitter: Luca Novello
+Confirmation number: 7b75f32171144b1c8e02dfe3bd3801e1
