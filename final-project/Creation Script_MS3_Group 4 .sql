@@ -2,7 +2,7 @@
 -- GROUP 4
 -- Luca Novello  ||  Philip Graham  ||  Jaseem Villan Thenkodath
 
--- Create sequence for generating unique IDs
+-- Create sequence for generating UIDs
 CREATE SEQUENCE UserSeq
     START WITH 1
     INCREMENT BY 1
