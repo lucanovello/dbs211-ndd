@@ -27,3 +27,6 @@ CREATE VIEW UserPlaylists AS
 SELECT u.Username, p.PlaylistName
 FROM Users u
 JOIN Playlists p ON u.UserID = p.UserID;
+
+
+SELECT * FROM TotalSongsByArtist;
